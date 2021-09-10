@@ -23,7 +23,10 @@ function Body02() {
     <Inf>
       <Left>
         <Info>
-          <Infinit>Infiniti Renault</Infinit>
+          <Infinit>
+            Infiniti Renault{" "}
+            <sup style={{ marginBottom: "100px", fontSize: "25px" }}>TM</sup>
+          </Infinit>
           <Angel_left>
             <FaAngleDoubleLeft />
           </Angel_left>

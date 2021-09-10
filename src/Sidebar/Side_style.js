@@ -43,6 +43,7 @@ const common = css`
   display: flex;
   margin-bottom: 0px;
   align-items: center;
+  cursor: pointer;
 `;
 
 export const Item = styled.div`
